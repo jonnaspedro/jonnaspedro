@@ -12,12 +12,15 @@
 
 <p align="left">Sou um estudante dedicado, sempre em busca de novos aprendizados e desafios.</p>
 
+<!-- GithubStats -->
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=jonnaspedro&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonnaspedro&langs_count=8&theme=radical&layout=compact)
+
 ###
 
 <h2 align="left">I code with</h2>
 
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
