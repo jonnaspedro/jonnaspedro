@@ -1,6 +1,7 @@
 # 👨🏻‍💻 Jonnas Pedro 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Front-End`**
 
+Sou Jonnas Pedro, graduando em Desenvolvimento de Sistemas pelo Instituto Federal de Pernambuco (IFPE), com 16 anos. Minha jornada na tecnologia começou com a curiosidade sobre como os sistemas funcionam. Isso se transformou em uma paixão por Front-End e UI/UX, e essa paixão me levou a compartilhar meu conhecimento em meu canal no YouTube. "[Elevatik Online](https://www.youtube.com/@Elevatikonline)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Elevatik Online](https://www.instagram.com/elevatikonline/)".
 <p align="left">
     <a href="https://www.youtube.com/@Elevatikonline?sub_confirmation=1">
         <img 
