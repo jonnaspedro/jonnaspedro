@@ -1,11 +1,9 @@
 # 👨🏻‍💻 Jonnas Pedro 
 **`Desenvolvedor Full-Stack`**
 
-Sou Jonnas Pedro, tenho 16 anos e estou cursando Desenvolvimento de Sistemas no Instituto Federal de Pernambuco (IFPE). Minha curiosidade sobre como os sistemas funcionam me levou à tecnologia, e hoje sou apaixonado por desenvolvimento Full Stack, criando soluções completas do front ao back, e essa paixão me levou a compartilhar meu conhecimento através do Instagram, com o perfil chamado "[HD Creative](https://www.instagram.com/hdcreativeofficial/)".
+Sou Jonnas Pedro, tenho 16 anos e estou cursando Desenvolvimento de Sistemas no Instituto Federal de Pernambuco (IFPE). Minha curiosidade sobre como os sistemas funcionam me levou à tecnologia, e hoje sou apaixonado por desenvolvimento Full Stack, criando soluções completas do front ao back.
 
 <div>
-<a href="https://" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/hdcreativeofficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contatojonnaspedro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jonnaspedro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
