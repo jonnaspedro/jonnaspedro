@@ -4,8 +4,8 @@
 Sou Jonnas Pedro, tenho 16 anos e estou cursando Desenvolvimento de Sistemas no Instituto Federal de Pernambuco (IFPE). Minha curiosidade sobre como os sistemas funcionam me levou à tecnologia, e hoje sou apaixonado por desenvolvimento Full Stack, criando soluções completas do front ao back.
 
 <div>
-<a href = "mailto:contatojonnaspedro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jonnaspedro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:contatojonnaspedro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ### 🤖 Linguagens e Tecnologias
