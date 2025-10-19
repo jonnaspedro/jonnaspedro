@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Jonnas Pedro 
 **`Desenvolvedor Full-Stack`**
 
-Sou Jonnas Pedro, tenho 16 anos e estou cursando Desenvolvimento de Sistemas no Instituto Federal de Pernambuco (IFPE). Minha curiosidade sobre como os sistemas funcionam me levou à tecnologia, e hoje sou apaixonado por desenvolvimento Full Stack, criando soluções completas do front ao back.
+Sou Jonnas Pedro, tenho 17 anos e estou cursando Desenvolvimento de Sistemas no Instituto Federal de Pernambuco (IFPE). Minha curiosidade sobre como os sistemas funcionam me levou à tecnologia, e hoje sou apaixonado por desenvolvimento Full Stack, criando soluções completas do front ao back.
 
 <div>
 <a href="https://www.linkedin.com/in/jonnaspedro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
