@@ -6,6 +6,9 @@ Sou Jonnas Pedro, tenho 17 anos e estou cursando Desenvolvimento de Sistemas no 
 <div>
 <a href="https://www.linkedin.com/in/jonnaspedro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:contatojonnaspedro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://jonnasdev.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/-Portf%C3%B3lio-%23333?style=for-the-badge&logo=code&logoColor=white">
+</a>
 </div>
 
 ### 🤖 Linguagens e Tecnologias
