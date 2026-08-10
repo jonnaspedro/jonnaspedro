@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=false&vCenter=true&width=500&lines=Desenvolvedor+Full-Stack;Criando+soluções+completas;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo" />
 </p>
 
-Sou Jonnas Pedro, tenho 17 anos e estou cursando Desenvolvimento de Sistemas no Instituto Federal de Pernambuco (IFPE). Minha curiosidade sobre como os sistemas funcionam me levou à tecnologia, e hoje sou apaixonado por desenvolvimento Full Stack, criando soluções completas do front ao back.
+Sou Jonnas Pedro e sou formado em Desenvolvimento de Sistemas pelo Instituto Federal de Pernambuco (IFPE). Minha curiosidade sobre como os sistemas funcionam me levou à tecnologia, e hoje sou apaixonado por desenvolvimento Full Stack, criando soluções completas do front-end ao back-end.
 
 <div>
 <a href="https://www.linkedin.com/in/jonnaspedro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
